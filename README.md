@@ -4,11 +4,10 @@ I’m a passionate and dedicated full-stack developer and financial technology e
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lichilin&label=Profile%20views&color=0e75b6&style=flat" alt="lichilin" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Connect with me
+
 ✉️ jadenli@bu.edu
 ![Linkedin](https://img.shields.io/github/followers/<YOUR_GITHUB_USERNAME>?label=Follow&style=social) https://www.linkedin.com/in/jaden-li-9122911a6/
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
