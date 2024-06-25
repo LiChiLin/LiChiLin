@@ -45,3 +45,5 @@ I’m a passionate and dedicated Quant and full-stack developer from Taiwan, cur
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lichilin&show_icons=true&locale=en&layout=compact" alt="lichilin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lichilin&show_icons=true&locale=en" alt="lichilin" /></p>
+
+![LeetCode Graph](https://leetcode.com/u/jadenli912/)
