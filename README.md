@@ -46,4 +46,4 @@ I’m a passionate and dedicated Quant and full-stack developer from Taiwan, cur
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lichilin&show_icons=true&locale=en" alt="lichilin" /></p>
 
-![LeetCode Stats](https://raw.githubusercontent.com/jadenli912/leetcode-stats/main/Screenshot%202024-06-25%20at%207.30.46%20PM.png)
+![LeetCode Stats](https://github.com/LiChiLin/LiChiLin/blob/main/leetcode.png)
