@@ -1,7 +1,8 @@
-<h1 align="center">Hi there! 👋 This is Jaden</h1>
-<h3 align="center">I’m a passionate and dedicated full-stack developer and financial technology enthusiast from Taiwan, currently pursuing a Master of Science in Mathematical Finance and Financial Technology at Boston University. With a strong foundation in Computer Science and Quantitative Finance from National Tsing Hua University, I excel in integrating advanced quantitative methods and machine learning models to solve complex financial problems.</h3>
+Hi there! 👋 This is Jaden</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lichilin" alt="lichilin" /></a> </p>
+I’m a passionate and dedicated full-stack developer and financial technology enthusiast from Taiwan, currently pursuing a Master of Science in Mathematical Finance and Financial Technology at Boston University. With a strong foundation in Computer Science and Quantitative Finance from National Tsing Hua University, I excel in integrating advanced quantitative methods and machine learning models to solve complex financial problems.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lichilin&label=Profile%20views&color=0e75b6&style=flat" alt="lichilin" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lichilin&show_icons=true&locale=en&layout=compact" alt="lichilin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lichilin&show_icons=true&locale=en" alt="lichilin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lichilin&" alt="lichilin" /></p>
