@@ -6,9 +6,8 @@ I’m a passionate and dedicated full-stack developer and financial technology e
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-✉️jadenli@bu.edu
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaden-li-9122911a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaden-li-9122911a6/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jadenli912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jadenli912/" height="30" width="40" /></a>
+✉️ jadenli@bu.edu
+![Linkedin](https://img.shields.io/github/followers/<YOUR_GITHUB_USERNAME>?label=Follow&style=social) https://www.linkedin.com/in/jaden-li-9122911a6/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
