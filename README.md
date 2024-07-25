@@ -46,4 +46,4 @@ I’m a passionate and dedicated Quant and full-stack developer based in Marylan
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lichilin&show_icons=true&locale=en" alt="lichilin" /></p>
 
-![LeetCode Stats](https://github.com/LiChiLin/LiChiLin/blob/main/leetcode.png)
+![LeetCode Stats](https://github.com/LiChiLin/LiChiLin/blob/main/leetcode1.png)
