@@ -1,4 +1,4 @@
-Hi there!😆 This is Jaden🔥🌞 <h1>
+Good Morning!☀️ This is Jaden 👋 </h1>
 
 I’m a passionate and dedicated Quant and full-stack developer based in Maryland, currently pursuing a Master of Science in Mathematical Finance at Boston University. With a strong foundation in Computer Science and Quantitative Finance from National Tsing Hua University, I excel in integrating advanced quantitative methods and machine learning models to solve complex financial problems.</h3>
 
