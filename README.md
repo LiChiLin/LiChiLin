@@ -9,9 +9,9 @@ I’m a passionate and dedicated Quant and full-stack developer based in Marylan
 - 📧 jadenli@bu.edu
 
 ## Highlight Projects
-- 📈 **On Adaptive High-Frequency Trading with Reinforcement Learning**  
-  This project presents a novel adaptive reinforcement learning framework applied to high-frequency trading (HFT). We integrate the Double Q-Network (DQN) with the Gated Recurrent Unit (GRU) for data encoding. The model adapts to changing market conditions through a dynamic sliding window algorithm, using the Sortino ratio as a key metric to guide trading decisions. Empirical results show the effectiveness of the proposed approach, particularly in managing turnover and transaction costs while achieving superior risk-adjusted returns.  
-  [Github Repository](#) | [Project Report](#)
+- 📈 **On Adaptive Reinforcement Learning for High-Frequency Trading**  
+  Developed a DQN-GRU model with a dynamic sliding window to adapt to market conditions, using the Sortino ratio to optimize trading. Achieved superior risk-adjusted returns and reduced transaction costs.  
+  [Github Repository](https://github.com/LiChiLin/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading) | [Project Report](https://github.com/LiChiLin/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading/blob/main/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading.pdf)
 
 - 🤖 **Automated Text Data Generation with LLMs for Classification Problems**  
   Utilized LLAMA2 for data generation and BERT for validation, crafting datasets with a balance of diversity and accuracy comparable to human-labeled data.  
