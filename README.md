@@ -14,7 +14,7 @@ I’m a passionate and dedicated Quant and full-stack developer based in Marylan
   [Github Repository](https://github.com/LiChiLin/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading) | [Project Report](https://github.com/LiChiLin/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading/blob/main/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading.pdf)
 
 - ⏳ **Timer Option Pricing and Hedging**  
-  Developed a pricing and hedging strategy for timer options using stochastic volatility models (Heston and Hull-White). Integrated dynamic delta hedging to manage risks and optimize portfolio value. Empirical studies on AAPL and JPM stocks validated the model's effectiveness. Achieve Sharpe Ratio of 1.23 and reduce the maximum drawdown to 9.74%  
+  Developed a pricing and hedging strategy for timer options using stochastic volatility models (Heston and Hull-White). Integrated dynamic delta hedging to manage risks and optimize portfolio value. Empirical studies on AAPL and JPM stocks validated the model's effectiveness. Achieve Sharpe Ratio of **1.23** and reduce the maximum drawdown to **9.74%**  
   [Github Repository](https://github.com/LiChiLin/Timer-Option-Pricing-and-Hedging) | [Project Report](https://github.com/LiChiLin/Timer-Option-Pricing-and-Hedging/blob/main/docs/MF796%20Final%20Report.pdf)
 
 - 🂡 **Pairs Trading Strategy Using Cointegration**  
