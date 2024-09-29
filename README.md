@@ -4,14 +4,6 @@ I’m a passionate and dedicated Quant and full-stack developer based in Marylan
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lichilin&label=Profile%20views&color=0e75b6&style=flat" alt="lichilin" /> </p>
 
-## Connect with me
-
-✉️ jadenli@bu.edu
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/jaden-li-9122911a6/)
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Follow-blue?style=social&logo=googlescholar)](https://scholar.google.com/citations?user=8zsQ6uMAAAAJ&hl=en)
-
 ## Languages and Tools:
 ### Programming Languages:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
