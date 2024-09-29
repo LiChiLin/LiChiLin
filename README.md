@@ -10,8 +10,7 @@ I’m a passionate and dedicated Quant and full-stack developer based in Marylan
 
 ## Highlight Projects
 - 📈 **On Adaptive Reinforcement Learning for High-Frequency Trading**  
-  Developed a DQN-GRU model with a dynamic sliding window to adapt to market conditions, using the Sortino ratio to optimize trading. Achieved superior risk-adjusted returns and reduced transaction costs. Improve **37%** increase in Sharpe ratio and **41%** reduction in maximum drawdown.
-
+  Developed a DQN-GRU model with a dynamic sliding window to adapt to market conditions, using the Sortino ratio to optimize trading. Achieved superior risk-adjusted returns and reduced transaction costs. Improve **37%** increase in Sharpe ratio and **41%** reduction in maximum drawdown.\\
   [Github Repository](https://github.com/LiChiLin/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading) | [Project Report](https://github.com/LiChiLin/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading/blob/main/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading.pdf)
 
 - ⏳ **Timer Option Pricing and Hedging**  
