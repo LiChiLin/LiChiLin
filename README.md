@@ -8,6 +8,16 @@ I’m a passionate and dedicated Quant and full-stack developer based in Marylan
 - 🌐 [LinkedIn - Jaden Li](https://www.linkedin.com/in/jaden-li-9122911a6/)
 - 📧 jadenli@bu.edu
 
+## Highlight Projects
+- 📈 **On Adaptive High-Frequency Trading with Reinforcement Learning**  
+  This project presents a novel adaptive reinforcement learning framework applied to high-frequency trading (HFT). We integrate the Double Q-Network (DQN) with the Gated Recurrent Unit (GRU) for data encoding. The model adapts to changing market conditions through a dynamic sliding window algorithm, using the Sortino ratio as a key metric to guide trading decisions. Empirical results show the effectiveness of the proposed approach, particularly in managing turnover and transaction costs while achieving superior risk-adjusted returns.  
+  [Github Repository](#) | [Project Report](#)
+
+- 🤖 **Automated Text Data Generation with LLMs for Classification Problems**  
+  Utilized LLAMA2 for data generation and BERT for validation, crafting datasets with a balance of diversity and accuracy comparable to human-labeled data.  
+  [Github Repository](#) | [Project Report](#)
+
+
 ![LeetCode Stats](https://github.com/LiChiLin/LiChiLin/blob/main/assets/leetcode.png)
 
 ### Programming Languages:
