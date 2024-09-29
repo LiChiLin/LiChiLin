@@ -16,7 +16,7 @@ I’m a passionate and dedicated Quant and full-stack developer based in Marylan
 
 - 🂡 **Pairs Trading Strategy Using Cointegration**  
   Developed a pairs trading strategy using cointegration among NASDAQ-100 equities. Identified securities with mean-reverting price relationships and dynamically adjusted positions based on asset volatility and z-scores of price spreads. Generated consistent alpha with controlled market exposure.  
-  [Github Repository]([https://github.com/LiChiLin/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading](https://github.com/LiChiLin/Cointegration-Alpha-A-NASDAQ-100-Pairs-Trading-Strategy)) | [Project Report]([https://github.com/LiChiLin/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading/blob/main/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading.pdf](https://github.com/LiChiLin/Cointegration-Alpha-A-NASDAQ-100-Pairs-Trading-Strategy/blob/main/docs/Midterm%20Report.pdf))
+ [Github Repository](https://github.com/LiChiLin/Cointegration-Alpha-A-NASDAQ-100-Pairs-Trading-Strategy/tree/main) | [Project Report](https://github.com/LiChiLin/Cointegration-Alpha-A-NASDAQ-100-Pairs-Trading-Strategy/blob/main/docs/Midterm%20Report.pdf)
 
 ![LeetCode Stats](https://github.com/LiChiLin/LiChiLin/blob/main/assets/leetcode.png)
 
