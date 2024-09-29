@@ -13,6 +13,9 @@ I’m a passionate and dedicated Quant and full-stack developer based in Marylan
   Developed a DQN-GRU model with a dynamic sliding window to adapt to market conditions, using the Sortino ratio to optimize trading. Achieved superior risk-adjusted returns and reduced transaction costs. Improve **37%** increase in Sharpe ratio and **41%** reduction in maximum drawdown
   [Github Repository](https://github.com/LiChiLin/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading) | [Project Report](https://github.com/LiChiLin/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading/blob/main/On-Adaptive-Reinforcement-Learning-in-High-Frequency-Trading.pdf)
 
+- ⏳ **Timer Option Pricing and Hedging**  
+  Developed a pricing and hedging strategy for timer options using stochastic volatility models (Heston and Hull-White). Integrated dynamic delta hedging to manage risks and optimize portfolio value. Empirical studies on AAPL and JPM stocks validated the model's effectiveness.  
+  [Github Repository](https://github.com/LiChiLin/Timer-Option-Pricing-and-Hedging) | [Project Report](https://github.com/LiChiLin/Timer-Option-Pricing-and-Hedging/blob/main/docs/MF796%20Final%20Report.pdf)
 
 - 🂡 **Pairs Trading Strategy Using Cointegration**  
   Developed a pairs trading strategy using cointegration among NASDAQ-100 equities. Identified securities with mean-reverting price relationships and dynamically adjusted positions based on asset volatility and z-scores of price spreads. Generated consistent alpha with controlled market exposure.  
