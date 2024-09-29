@@ -5,8 +5,8 @@ I’m a passionate and dedicated Quant and full-stack developer based in Marylan
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lichilin&label=Profile%20views&color=0e75b6&style=flat" alt="lichilin" /> </p>
 
 ## Let's Connect
-- 🌐 [LinkedIn - Bert Lee](#)
-- 📧 [Send a Signal](#)
+- 🌐 [LinkedIn - Jaden Li](https://www.linkedin.com/in/jaden-li-9122911a6/)
+- 📧 jadenli@bu.edu
 
 ![LeetCode Stats](https://github.com/LiChiLin/LiChiLin/blob/main/assets/leetcode.png)
 
