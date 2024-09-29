@@ -1,6 +1,6 @@
 ## Greetings! I'm Jaden, An aspiring Quant based in Boston and Maryland 👋 </h1>
 
-I’m a passionate and dedicated Quant and full-stack developer based in Maryland, currently pursuing a Master of Science in Mathematical Finance at Boston University. With a strong foundation in Computer Science and Quantitative Finance from National Tsing Hua University, I excel in integrating advanced quantitative methods and machine learning models to solve complex financial problems.</h3>
+I’m a passionate and dedicated Quant and full-stack developer based in Maryland, currently pursuing a **Master of Science in Mathematical Finance** at Boston University. With a strong foundation in **Computer Science** and **Quantitative Finance** from National Tsing Hua University, I excel in integrating advanced **quantitative methods** and **machine learning model**s to solve complex financial problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lichilin&label=Profile%20views&color=0e75b6&style=flat" alt="lichilin" /> </p>
 
